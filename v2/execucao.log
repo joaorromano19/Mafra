@@ -1,0 +1,48 @@
+17:54:55  ERROR     Arquivo de clientes não encontrado: clientes.csv
+17:59:22  INFO      Clientes carregados: 2
+17:59:22  INFO      Competência: 04/2026 a 04/2026
+17:59:22  INFO      Resultados serão salvos em: resultados/
+17:59:22  INFO      Certificado: NELSON LUIZ MAFRA JUNIOR:31929038801
+17:59:23  INFO      Chrome iniciado. Auto-seleção de certificado: NELSON LUIZ MAFRA JUNIOR:31929038801
+17:59:23  INFO      Sem sessão ativa. Fazendo login por certificado digital...
+17:59:23  INFO      Acessando portal NFSe Campinas...
+17:59:29  INFO      Clicou em AUTENTICAR via 'a:has-text('AUTENTICAR')'.
+17:59:49  INFO      Clicou em UTILIZAR CERTIFICADO via 'a:has-text('UTILIZAR CERTIFICADO')'.
+17:59:49  INFO      Aguardando autenticação por certificado digital...
+18:00:00  INFO      Autenticação concluída. URL: https://novanfse.campinas.sp.gov.br/notafiscal/paginas/selecionacadastro/selecionaCadastro.jsf
+18:00:00  INFO      Login realizado. URL: https://novanfse.campinas.sp.gov.br/notafiscal/paginas/selecionacadastro/selecionaCadastro.jsf
+18:00:00  INFO      [1/2] Processando CNPJ: 21827425000149
+18:00:00  INFO      Selecionando cliente CNPJ 21827425000149...
+18:00:04  INFO      Pesquisa executada.
+18:00:05  INFO      Linha do cliente clicada. Nome na tabela: A. BERNARDES SOCIEDADE DE ADVOGADOS
+18:00:07  INFO      Cliente selecionado: A. BERNARDES SOCIEDADE DE ADVOGADOS (CNPJ: 21827425000149)
+18:00:07  INFO      Exportando notas 04/2026 a 04/2026...
+18:00:12  INFO      Emissão preenchida: 01/04/2026 a 30/04/2026
+18:00:12  INFO      Campo 'Ativa' marcado=True.
+18:00:12  INFO      Campo 'Prestado' marcado=True.
+18:00:13  INFO      Botão 'Gerar Relação Notas' clicado via JS.
+18:00:13  INFO      Tentativa 1/2: Botão 'Gerar Relação Notas' acionado.
+18:00:13  INFO      Modal de confirmação detectado — clicando Download...
+18:00:13  INFO      Download confirmado.
+18:00:13  INFO      Aguardando download...
+18:00:13  INFO      Arquivo salvo: resultados\A  BERNARDES SOCIEDADE DE ADVOGADOS\A_ BERNARDES SOCIEDADE DE ADVOGADOS_04-2026_20260527_180013.xml
+18:00:13  INFO      [1/2] OK: A_ BERNARDES SOCIEDADE DE ADVOGADOS_04-2026_20260527_180013.xml
+18:00:13  INFO      [2/2] Processando CNPJ: 11147129000143
+18:00:13  INFO      Selecionando cliente CNPJ 11147129000143...
+18:00:17  INFO      Pesquisa executada.
+18:00:19  INFO      Linha do cliente clicada. Nome na tabela: MAFRA ASSESSORIA CONTABIL E EMPRESARIAL LTDA
+18:00:21  WARNING   CNPJ 11147129000143 não encontrado no bloco REPRESENTANDO. Bloco (primeiros 300 chars): ''
+18:00:21  INFO      Cliente selecionado: MAFRA ASSESSORIA CONTABIL E EMPRESARIAL LTDA (CNPJ: 11147129000143)
+18:00:21  INFO      Exportando notas 04/2026 a 04/2026...
+18:00:28  INFO      Emissão preenchida: 01/04/2026 a 30/04/2026
+18:00:28  INFO      Campo 'Ativa' marcado=True.
+18:00:28  INFO      Campo 'Prestado' marcado=True.
+18:00:29  INFO      Botão 'Gerar Relação Notas' clicado via JS.
+18:00:29  INFO      Tentativa 1/2: Botão 'Gerar Relação Notas' acionado.
+18:00:29  INFO      Modal de confirmação detectado — clicando Download...
+18:00:29  INFO      Download confirmado.
+18:00:29  INFO      Aguardando download...
+18:00:30  INFO      Arquivo salvo: resultados\MAFRA ASSESSORIA CONTABIL E EMPRESARIAL LTDA\MAFRA ASSESSORIA CONTABIL E EMPRESARIAL LTDA_04-2026_20260527_180030.xml
+18:00:30  INFO      [2/2] OK: MAFRA ASSESSORIA CONTABIL E EMPRESARIAL LTDA_04-2026_20260527_180030.xml
+18:00:30  INFO      Browser encerrado.
+18:00:30  INFO      Relatório salvo em: resultados\relatorio_20260527_180030.csv
